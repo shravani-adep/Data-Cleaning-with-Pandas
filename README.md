@@ -6,7 +6,7 @@ This project demonstrates a complete data cleaning workflow using Python and Pan
 
 The objective was to transform raw, inconsistent, and incomplete data into a clean and analysis-ready dataset suitable for Exploratory Data Analysis (EDA), Machine Learning, and Business Intelligence applications.
 
----
+
 
 ## Dataset
 
@@ -23,7 +23,7 @@ The dataset contains information related to Data Analyst job postings, including
 * Founded Year
 * Job Features
 
----
+
 
 ## Project Goals
 
@@ -35,7 +35,7 @@ The dataset contains information related to Data Analyst job postings, including
 * Clean salary information
 * Prepare the dataset for further analysis
 
----
+
 
 ## Tools & Libraries
 
@@ -44,7 +44,7 @@ The dataset contains information related to Data Analyst job postings, including
 * NumPy
 * Jupyter Notebook
 
----
+
 
 ## Data Cleaning Steps Performed
 
