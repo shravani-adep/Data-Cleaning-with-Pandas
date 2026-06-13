@@ -1,6 +1,6 @@
 # Data Cleaning Project using Python & Pandas
 
-## Project Overview
+# Project Overview
 
 This project demonstrates a complete data cleaning workflow using Python and Pandas on a real-world Data Analyst job dataset.
 
@@ -8,7 +8,7 @@ The objective was to transform raw, inconsistent, and incomplete data into a cle
 
 
 
-## Dataset
+# Dataset
 
 The dataset contains information related to Data Analyst job postings, including:
 
@@ -25,7 +25,7 @@ The dataset contains information related to Data Analyst job postings, including
 
 
 
-## Project Goals
+# Project Goals
 
 * Identify and handle missing values
 * Remove invalid data entries
